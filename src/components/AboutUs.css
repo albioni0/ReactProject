@@ -1,0 +1,16 @@
+.about{
+    background-image: url("/public/images/img-3.jpg");
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container1{
+    font-size: 50px;
+}
+
+.container2{
+    font-size: 20px;
+    padding: 100px;
+}
